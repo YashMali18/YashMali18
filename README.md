@@ -1,40 +1,52 @@
-## Selected work
+<!--
+  Profile README for YashMali18/YashMali18
+  REPLACE BEFORE PUBLISHING:  YOUR-VERCEL-APP.vercel.app  ->  your own deployed github-readme-stats host
+  (appears in 6 image URLs below; use Find and Replace once, then delete this comment)
+-->
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Yash Mali, AI and Data Science Student, terminal-style profile banner" src="dark.svg" width="100%">
+</picture>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=yashmali18&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235636018%3Fu%3D90ee90e0c7280fb1d25f954f28cb7f8c81e8ff4c%26v%3D4" alt="yashmali18 hero visual" />
-</p>
+## Hi, I'm Yash Mali
 
-<h1>Yash Mali</h1>
-<p><b>Freelance developer or consultant</b></p>
+I'm an AI & Data Science undergraduate student. I'm learning, building and shipping, with a current focus on **C** and **Data Structures**, using **Git** and **GitHub** to keep track of it all.
 
-</div>
+## Skills
 
-## The idea behind the work
+| Core skills | Tools |
+| :--- | :--- |
+| C, Data Structures | Git, GitHub |
 
-> Building useful things and learning in public.
-
-- 👥 **0** followers · **0** following
-
-*Small, useful work over vague claims.*
-
-## Case studies
-
-<table>
-<tr><td width="32%"><b><a href="https://github.com/YashMali18/Simon-Game">Simon-Game</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
-</table>
-
-## Creative toolkit
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## Make something memorable
+## GitHub stats
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=yashmali18&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235636018%3Fu%3D90ee90e0c7280fb1d25f954f28cb7f8c81e8ff4c%26v%3D4" alt="yashmali18 social visual" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=YashMali18&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=94A3B8">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=YashMali18&hide_border=true&background=FFFFFF&ring=0891B2&fire=10B981&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=7C3AED&sideLabels=475569&dates=475569">
+    <img alt="Yash Mali's GitHub streak statistics" src="https://streak-stats.demolab.com/?user=YashMali18&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=94A3B8">
+  </picture>
 </p>
 
-<a href="https://github.com/yashmali18">GitHub</a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-VERCEL-APP.vercel.app/api?username=YashMali18&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8">
+    <source media="(prefers-color-scheme: light)" srcset="https://YOUR-VERCEL-APP.vercel.app/api?username=YashMali18&show_icons=true&hide_rank=true&hide_border=true&bg_color=FFFFFF&title_color=0891B2&icon_color=7C3AED&text_color=475569">
+    <img alt="Yash Mali's GitHub statistics" src="https://YOUR-VERCEL-APP.vercel.app/api?username=YashMali18&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=YashMali18&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=94A3B8">
+    <source media="(prefers-color-scheme: light)" srcset="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=YashMali18&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0891B2&text_color=475569">
+    <img alt="Yash Mali's top programming languages" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=YashMali18&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=94A3B8" width="49%">
+  </picture>
+</p>
 
-<p align="center"><sub>Yash Mali · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashMali18/YashMali18/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashMali18/YashMali18/output/github-snake.svg">
+  <img alt="Contribution graph animated as a snake eating the contribution squares" src="https://raw.githubusercontent.com/YashMali18/YashMali18/output/github-snake-dark.svg" width="100%">
+</picture>
